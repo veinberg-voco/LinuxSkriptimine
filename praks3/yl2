@@ -1,0 +1,7 @@
+#!/bin/bash
+# kasutajale kuupäev ja aeg
+man date
+date +"%B %Y"
+date +"Calendar of %B %Y"
+cal | tail -n 7
+date +"Time is %H:%M" 
