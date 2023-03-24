@@ -1,0 +1,5 @@
+#./bin/bash
+# Muutujad, väärtuste omistamine ning arvutamine
+echo -n "Siseta oma ees- ja perekonnanimi:" 
+read varname
+echo "Tere tulemast $varname!"
